@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "user_id": 1,
+      "username": "Test",
+      "email_id":"test@gmail.com",
+      "status":1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
